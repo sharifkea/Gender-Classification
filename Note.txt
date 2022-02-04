@@ -1,0 +1,1 @@
+'meanfreq','sd','median','Q25','Q75','skew','kurt','sp.ent','sfm','mode','centroid','minfun','maxfun','meandom','mindom','maxdom','dfrange','modindx',
